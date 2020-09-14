@@ -12,7 +12,7 @@
 <style>
     /* CSS Reset */
     body {
-        font-family: 'Baloo Bhai', cursive;
+        font-family: 'Rabish', cursive;
         color: white;
         margin: 0px;
         padding: 0px;
@@ -77,7 +77,7 @@
     }
 
     .btn {
-        font-family: 'Baloo Bhai', cursive;
+        font-family: 'Rabish', cursive;
         margin: 0px 9px;
         background-color: black;
         color: white;
@@ -101,7 +101,7 @@
     }
 
     .form-group input {
-        font-family: 'Baloo Bhai', cursive;
+        font-family: 'Rabish', cursive;
         text-align: center;
         display: block;
         width: 508px;
@@ -128,7 +128,7 @@
         <!-- Left box for logo -->
         <div class="left">
             <img src="img/gym.png" alt="">
-            <div>Harry Fitness</div>
+            <div>Akshar Fitness</div>
         </div>
         <!-- Mid box for navbar -->
         <div class="mid">
